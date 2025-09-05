@@ -27,7 +27,6 @@ Tensorflow-Image-Segmentation-Malignant-BreastDM
 As shown below, the inferred masks predicted by our segmentation model trained on the 
 PNG dataset appear similar to the ground truth masks.<br>
 <b>rgb_map =  (benign:green, malignant:red)</b><br>
-<br>
 <table>
 <tr>
 <th>Input: image</th>
