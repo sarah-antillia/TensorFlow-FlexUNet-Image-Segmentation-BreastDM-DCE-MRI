@@ -12,13 +12,11 @@ which was derived by us from the following dataset on the google drive
 <a href="https://drive.google.com/file/d/1GvNwL4iPcB2GRdK2n353bKiKV_Vnx7Qg/view">
 BreaDM.zip
 </a> specified in a repository <a href="https://github.com/smallboy-code/Breast-cancer-dataset">Breast-cancer-dataset</a>
-
 <br><br>
 On BreaDM dataset, please refer to <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523007205">
 <b>BreastDM: A DCE-MRI dataset for breast tumor image segmentation and classification</b></a>
 , and <a href="https://github.com/smallboy-code/Breast-cancer-dataset">Breast-cancer-dataset</a><br>.
 <br>
-
 Please see also our experiment for a singleclass segmentation model 
 <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Malignant-BreastDM">
 Tensorflow-Image-Segmentation-Malignant-BreastDM
@@ -26,11 +24,9 @@ Tensorflow-Image-Segmentation-Malignant-BreastDM
 <br>
 <br>
 <b>Acutual Image Segmentation for 512x512 BreastDM images</b><br>
-
 As shown below, the inferred masks predicted by our segmentation model trained on the 
 PNG dataset appear similar to the ground truth masks.<br>
 <b>rgb_map =  (benign:green, malignant:red)</b><br>
-<br>
 <br>
 <table>
 <tr>
