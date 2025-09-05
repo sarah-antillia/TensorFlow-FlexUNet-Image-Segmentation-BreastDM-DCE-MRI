@@ -57,9 +57,6 @@ The dataset used here has been obtained from the google drive
 </a> <a href="https://drive.google.com/file/d/1GvNwL4iPcB2GRdK2n353bKiKV_Vnx7Qg/view">
 BreaDM.zip
 </a> specified in <a href="https://github.com/smallboy-code/Breast-cancer-dataset">Breast-cancer-dataset</a>
-
-
-
 <br><br>
 On BreastDM dataset, please refer to
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482523007205">
@@ -67,11 +64,7 @@ On BreastDM dataset, please refer to
 </a><br>
 Xiaoming Zhao, Yuehui Liao, Jiahao Xie, Xiaxia He, Shiqing Zhang, Guoyu Wang <br>, Jiangxiong Fang
 , Hongsheng Lu, Jun Yu <br>
-
 <a href="https://doi.org/10.1016/j.compbiomed.2023.107255">https://doi.org/10.1016/j.compbiomed.2023.107255</a><br>
-
-
-
 <br>
 <h3>
 <a id="2">
